@@ -1,7 +1,6 @@
 # Hi, I’m Rachael Quisel 👋
 
-I design Airtable and AI-assisted workflows that help people see what needs doing, act on it, and
-understand what changed. My work connects data models, interfaces, automations, and clear teaching.
+I’m a Workflow Consultant with XRAY Automation, where I get to puzzle out solutions to challenges alongside an amazing team. My work connects data modeling, schema building, data management, interfaces, platform integrations, setting up automations (asynch, cloud, etc), and client education.
 
 ## Start here
 
@@ -15,6 +14,6 @@ understand what changed. My work connects data models, interfaces, automations, 
 - **[Skills for You](https://github.com/RachaelQuisel/skillsforyou)** — installable AI skills for
   repeatable Airtable and operations work, with supporting files and examples.
 
-I like making the work understandable as well as functional. A generated prompt, an edited source
+I like making the work clear, concise, and functional. A generated prompt, an edited source
 file, a saved interface, and a verified workflow are different milestones; my project notes say
 which one a result has reached.
