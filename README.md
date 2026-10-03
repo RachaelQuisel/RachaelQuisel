@@ -2,6 +2,21 @@
 
 I’m a Workflow Consultant with XRAY Automation, where I get to puzzle out solutions to challenges alongside an amazing team. My work connects data modeling, schema building, data management, interfaces, platform integrations, setting up automations (asynch, cloud, etc), and client education.
 
+## Claude plugins I built
+
+- **[GitHub Portfolio Builder](https://github.com/RachaelQuisel/github-portfolio-builder)** —
+  reviews a profile or repository as portfolio evidence, checks links and claims, and ranks a few
+  specific improvements. Its source and Claude Code install path are public.
+- **[Questions Worth Asking](https://github.com/RachaelQuisel/questions-worth-asking)** —
+  finds unanswered questions, conflicting instructions, and unclear ownership in meeting
+  transcripts. Each suggested question points back to the passage that prompted it.
+- **[AI Privacy Settings Check](https://github.com/RachaelQuisel/ai-privacy-settings-check)** —
+  compares documented AI product privacy defaults with settings a user can verify in their own
+  accounts. It separates documented defaults, observed settings, and unresolved gaps.
+
+These are public source repositories. Availability in the Claude Directory has a separate review
+and approval process.
+
 ## Start here
 
 - **[Airtable AI Webinar](https://github.com/RachaelQuisel/Airtable-AI-Webinar)** — a four-version
