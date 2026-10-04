@@ -1,4 +1,4 @@
-# Hi, I’m Rachael Quisel 👋
+# Hi, I’m Rachael Quisel
 
 I’m a Workflow Consultant with XRAY Automation, where I get to puzzle out solutions to challenges alongside an amazing team. My work connects data modeling, schema building, data management, interfaces, platform integrations, setting up automations (asynch, cloud, etc), and client education.
 
