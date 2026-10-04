@@ -19,6 +19,10 @@ I’m a Workflow Consultant with XRAY Automation, where I get to puzzle out solu
 - **[Publish a Plugin](https://github.com/RachaelQuisel/publish-a-plugin)** — checks a Claude Code
   plugin package and helps investigate validation findings before a directory submission. Its
   documented scanner observations are not a guarantee of approval.
+- **[Find Automatable Workflows](https://github.com/RachaelQuisel/find-automatable-workflows)** —
+  turns a description or selected source review into a scoped automation proposal and outcome checks.
+  Its [fictional case study](https://github.com/RachaelQuisel/find-automatable-workflows/blob/main/docs/fictional-workflow-case-study.md)
+  shows the decisions and evidence gaps before a build.
 
 ## Start here
 
