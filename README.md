@@ -10,9 +10,15 @@ I’m a Workflow Consultant with XRAY Automation, where I get to puzzle out solu
 - **[Questions Worth Asking](https://github.com/RachaelQuisel/questions-worth-asking)** —
   finds unanswered questions, conflicting instructions, and unclear ownership in meeting
   transcripts. Each suggested question points back to the passage that prompted it.
-- **[AI Privacy Settings Check](https://github.com/RachaelQuisel/ai-privacy-settings-check)** —
+- **[Turn Off AI Data Sharing](https://github.com/RachaelQuisel/turn-off-ai-data-sharing)** —
   compares documented AI product privacy defaults with settings a user can verify in their own
   accounts. It separates documented defaults, observed settings, and unresolved gaps.
+
+## More tools
+
+- **[Publish a Plugin](https://github.com/RachaelQuisel/publish-a-plugin)** — checks a Claude Code
+  plugin package and helps investigate validation findings before a directory submission. Its
+  documented scanner observations are not a guarantee of approval.
 
 ## Start here
 
