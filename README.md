@@ -20,9 +20,9 @@ I’m a Workflow Consultant with XRAY Automation, where I get to puzzle out solu
   plugin package and helps investigate validation findings before a directory submission. Its
   documented scanner observations are not a guarantee of approval.
 - **[Find Automatable Workflows](https://github.com/RachaelQuisel/find-automatable-workflows)** —
-  turns a description or selected source review into a scoped automation proposal and outcome checks.
+  asks about repetitive work and drafts a scoped automation proposal with outcome checks.
   Its [fictional case study](https://github.com/RachaelQuisel/find-automatable-workflows/blob/main/docs/fictional-workflow-case-study.md)
-  shows the decisions and evidence gaps before a build.
+  shows the decisions and evidence gaps before a build. Live source connections remain unverified.
 
 ## Start here
 
