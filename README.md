@@ -82,19 +82,19 @@ Teams covering several houses see which tasks are on track, due soon, or overdue
 
 ## Plugins I built for Claude, Codex, and other LLMs
 
-- **[GitHub Portfolio Builder](https://github.com/RachaelQuisel/github-portfolio-builder)** reviews a profile or repository as portfolio evidence. It checks links and claims and ranks a few specific improvements.
-- **[Questions Worth Asking](https://github.com/RachaelQuisel/questions-worth-asking)** finds unanswered questions, conflicting instructions, and unclear ownership in meeting transcripts. Each question points back to the passage that prompted it.
-- **[Turn Off AI Data Sharing](https://github.com/RachaelQuisel/turn-off-ai-data-sharing)** compares documented AI privacy defaults with the settings you can check in your own accounts.
+- **[GitHub Portfolio Builder](https://github.com/RachaelQuisel/github-portfolio-builder)** helps you highlight your strongest work, explain your contributions, and show employers, clients, and collaborators why your projects matter. Share your profile or a repository to get a prioritized plan for what to feature, improve, and add.
+- **[Questions Worth Asking](https://github.com/RachaelQuisel/questions-worth-asking)** helps you know what to ask next. It turns meeting transcripts and notes into useful follow-up, with each question backed by the exact words that support it.
+- **[Turn Off AI Data Sharing](https://github.com/RachaelQuisel/turn-off-ai-data-sharing)** scans your default settings across ChatGPT, Claude, Gemini, Grok, Copilot, and Meta AI. It explains each toggle in plain English and tells you exactly what to switch off.
 
 ## More tools
 
-- **[Publish a Plugin](https://github.com/RachaelQuisel/publish-a-plugin)** checks a Claude Code plugin package before a directory submission. Its scanner notes are not a guarantee of approval.
-- **[Find Automatable Workflows](https://github.com/RachaelQuisel/find-automatable-workflows)** asks about repetitive work and drafts a scoped automation proposal. Its [fictional case study](https://github.com/RachaelQuisel/find-automatable-workflows/blob/main/docs/fictional-workflow-case-study.md) shows the decisions before a build.
+- **[Publish a Plugin](https://github.com/RachaelQuisel/publish-a-plugin)** helps you prepare a Claude Code plugin for directory review. It checks the package, explains validation findings, and applies the fixes you ask for.
+- **[Find Automatable Workflows](https://github.com/RachaelQuisel/find-automatable-workflows)** helps you find repetitive work that could be simpler. It asks a few questions about your work and writes a specification for building the automation you choose. Its [fictional case study](https://github.com/RachaelQuisel/find-automatable-workflows/blob/main/docs/fictional-workflow-case-study.md) shows the decisions before a build.
 
 ## Start here
 
-- **[Airtable AI Webinar](https://github.com/RachaelQuisel/Airtable-AI-Webinar)**: a four-version Omni demo with prompts, React source, setup guidance, and a recording. The [Family Neighborhood case study](https://github.com/RachaelQuisel/Airtable-AI-Webinar/blob/main/docs/family-neighborhood-case-study.md) explains the decisions behind each version.
-- **[Skills for You](https://github.com/RachaelQuisel/skillsforyou)**: installable AI skills for repeatable Airtable and operations work.
+- **[Airtable AI Webinar](https://github.com/RachaelQuisel/Airtable-AI-Webinar)**: follow one real job through four versions of the same Omni interface, with a focus on building fun into the product and putting your own creative stamp on it. The [Family Neighborhood case study](https://github.com/RachaelQuisel/Airtable-AI-Webinar/blob/main/docs/family-neighborhood-case-study.md) explains the decisions behind each version.
+- **[Skills for You](https://github.com/RachaelQuisel/skillsforyou)**: practical AI skills you can take, tweak for your setup, and make your own.
 
 ## Workshops
 
