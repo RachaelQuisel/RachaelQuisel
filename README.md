@@ -94,7 +94,6 @@ Teams covering several houses see which tasks are on track, due soon or overdue,
 ## Start here
 
 - **[Airtable AI Webinar](https://github.com/RachaelQuisel/Airtable-AI-Webinar)**: a four-version Omni demo with prompts, React source, setup guidance and a recording. The [Family Neighborhood case study](https://github.com/RachaelQuisel/Airtable-AI-Webinar/blob/main/docs/family-neighborhood-case-study.md) explains the decisions behind each version.
-- **[Systems Thinking for Airtable](https://github.com/RachaelQuisel/systems-thinking-for-airtable)**: eight modules on schema design, automation, access and client communication, including decisions I later revised.
 - **[Skills for You](https://github.com/RachaelQuisel/skillsforyou)**: installable AI skills for repeatable Airtable and operations work.
 
 ## Workshops
