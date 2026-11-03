@@ -8,7 +8,7 @@ I'm a Santa Barbara founder and Workflow Consultant at XRAY Automation. I work f
 
 ### Booking sync to a shared calendar
 
-[![Booking sync to a shared calendar](https://airbnbai.rent/assets/booking-sync-poster.webp)](https://airbnbai.rent/assets/booking-sync-1920x1080.mp4)
+<a href="https://airbnbai.rent/assets/booking-sync-1920x1080.mp4"><img src="https://airbnbai.rent/assets/booking-sync-poster.webp" alt="Booking sync to a shared calendar" width="415"></a>
 
 Airbnb and VRBO bookings land on one shared calendar, and cleaners get a text when a stay changes.
 
@@ -16,7 +16,7 @@ Airbnb and VRBO bookings land on one shared calendar, and cleaners get a text wh
 
 ### Schedule your cleaners by text
 
-[![Schedule your cleaners by text](https://airbnbai.rent/assets/cleaner-job-texts-poster.webp)](https://airbnbai.rent/assets/cleaner-job-texts-1920x1080.mp4)
+<a href="https://airbnbai.rent/assets/cleaner-job-texts-1920x1080.mp4"><img src="https://airbnbai.rent/assets/cleaner-job-texts-poster.webp" alt="Schedule your cleaners by text" width="415"></a>
 
 Your cleaner picks dates by text and is added to your shared calendar.
 
@@ -24,7 +24,7 @@ Your cleaner picks dates by text and is added to your shared calendar.
 
 ### When your cleaner can't make it, the next one is asked automatically
 
-[![When your cleaner can't make it, the next one is asked automatically](https://airbnbai.rent/assets/cleaning-calendar-poster.webp)](https://airbnbai.rent/assets/cleaning-calendar-1920x1080.mp4)
+<a href="https://airbnbai.rent/assets/cleaning-calendar-1920x1080.mp4"><img src="https://airbnbai.rent/assets/cleaning-calendar-poster.webp" alt="When your cleaner can't make it, the next one is asked automatically" width="415"></a>
 
 You get a text only if a day still has no cleaner.
 
@@ -32,7 +32,7 @@ You get a text only if a day still has no cleaner.
 
 ### Door codes for every guest, assigned and revoked automatically
 
-[![Door codes for every guest, assigned and revoked automatically](https://airbnbai.rent/assets/guest-door-codes-poster.webp)](https://airbnbai.rent/assets/guest-door-codes-1920x1080.mp4)
+<a href="https://airbnbai.rent/assets/guest-door-codes-1920x1080.mp4"><img src="https://airbnbai.rent/assets/guest-door-codes-poster.webp" alt="Door codes for every guest, assigned and revoked automatically" width="415"></a>
 
 Every guest and contractor gets a unique code that is revoked after checkout and never reused.
 
@@ -40,7 +40,7 @@ Every guest and contractor gets a unique code that is revoked after checkout and
 
 ### When an inspection finds a problem, the right contractor is scheduled automatically
 
-[![When an inspection finds a problem, the right contractor is scheduled automatically](https://airbnbai.rent/assets/property-inspection-poster.webp)](https://airbnbai.rent/assets/property-inspection-1920x1080.mp4)
+<a href="https://airbnbai.rent/assets/property-inspection-1920x1080.mp4"><img src="https://airbnbai.rent/assets/property-inspection-poster.webp" alt="When an inspection finds a problem, the right contractor is scheduled automatically" width="415"></a>
 
 One tap from the inspector texts the right contractor, who picks the next open time.
 
@@ -48,7 +48,7 @@ One tap from the inspector texts the right contractor, who picks the next open t
 
 ### Monthly TOT and TBID tax prep
 
-[![Monthly TOT and TBID tax prep](https://airbnbai.rent/assets/tax-prep-poster.webp)](https://airbnbai.rent/assets/tax-prep-1920x1080.mp4)
+<a href="https://airbnbai.rent/assets/tax-prep-1920x1080.mp4"><img src="https://airbnbai.rent/assets/tax-prep-poster.webp" alt="Monthly TOT and TBID tax prep" width="415"></a>
 
 A script turns booking payouts into the city's lodging tax form and checks that the totals add up.
 
@@ -56,7 +56,7 @@ A script turns booking payouts into the city's lodging tax form and checks that 
 
 ### A morning briefing in Slack so your whole team starts the day on the same page
 
-[![A morning briefing in Slack so your whole team starts the day on the same page](https://airbnbai.rent/assets/ops-today-poster.webp)](https://airbnbai.rent/assets/ops-today-1920x1080.mp4)
+<a href="https://airbnbai.rent/assets/ops-today-1920x1080.mp4"><img src="https://airbnbai.rent/assets/ops-today-poster.webp" alt="A morning briefing in Slack so your whole team starts the day on the same page" width="415"></a>
 
 Bookings, reviews, money, guest messages and cleaning coverage arrive in one Slack post each morning.
 
@@ -64,7 +64,7 @@ Bookings, reviews, money, guest messages and cleaning coverage arrive in one Sla
 
 ### Every night priced right on Airbnb and VRBO
 
-[![Every night priced right on Airbnb and VRBO](https://airbnbai.rent/assets/daily-pricing-sync-poster.webp)](https://airbnbai.rent/assets/daily-pricing-sync-1920x1080.mp4)
+<a href="https://airbnbai.rent/assets/daily-pricing-sync-1920x1080.mp4"><img src="https://airbnbai.rent/assets/daily-pricing-sync-poster.webp" alt="Every night priced right on Airbnb and VRBO" width="415"></a>
 
 A daily check fixes any price that is off for the next 12 months and reports to Slack.
 
@@ -74,7 +74,7 @@ A daily check fixes any price that is off for the next 12 months and reports to 
 
 ### Friendly task tracker
 
-[![Friendly task tracker](https://airbnbai.rent/assets/friendly-task-tracker-poster.webp)](https://airbnbai.rent/assets/friendly-task-tracker.mp4)
+<a href="https://airbnbai.rent/assets/friendly-task-tracker.mp4"><img src="https://airbnbai.rent/assets/friendly-task-tracker-poster.webp" alt="Friendly task tracker" width="415"></a>
 
 Teams covering several houses see which tasks are on track, due soon or overdue, and finished tasks earn points.
 
@@ -104,10 +104,10 @@ I lead Automate Your Business workshops at [Kiva](https://luma.com/bzdez39g) and
 - Q & A
 - Leave with a tangible solution
 
-All the workshop materials are in [Automate Your Business](https://github.com/RachaelQuisel/Automate-Your-Business). Two to start with:
+Two workshops to start with:
 
-- **[The Colleague Audit](https://github.com/RachaelQuisel/Automate-Your-Business/tree/main/workshops/2026-09-30-the-colleague-audit)**: stop chatting with AI and start delegating to it. Built from the story of how Grok Bot was built in a month.
-- **[The Loop Audit](https://github.com/RachaelQuisel/Automate-Your-Business/tree/main/workshops/2026-09-30-the-loop-audit)**: stop automating tasks and start automating loops.
+- **[The Team Bot](https://github.com/RachaelQuisel/one-ai-helper-for-the-whole-team)**: design one shared AI teammate for your business. This is the story of how I built my Grok Bot.
+- **[The Morning Brief](https://github.com/RachaelQuisel/the-brief-your-agent-brings-you-each-morning)**: design the short list an agent brings you before your day starts.
 
 ## Want this for your business?
 
