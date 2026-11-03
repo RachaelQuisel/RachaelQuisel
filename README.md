@@ -2,6 +2,10 @@
 
 I’m a Workflow Consultant with XRAY Automation, where I get to puzzle out solutions to challenges alongside an amazing team. My work connects data modeling, schema building, data management, interfaces, platform integrations, setting up automations (asynch, cloud, etc), and client education.
 
+## Featured
+
+- **[La Maison Santa Barbara](https://github.com/RachaelQuisel/la-maison-github)**: the operations behind my Santa Barbara vacation rental. Process documentation and reviewed reference code for booking sync, cleaning coverage, monthly tax reporting, and scheduling cleaners by text.
+
 ## Plugins I built for Claude, Codex, and other LLMs
 
 - **[GitHub Portfolio Builder](https://github.com/RachaelQuisel/github-portfolio-builder)** —
@@ -40,6 +44,3 @@ I like making the work clear, concise, and functional. A generated prompt, an ed
 file, a saved interface, and a verified workflow are different milestones; my project notes say
 which one a result has reached.
 
-## Client work
-
-- **[Brooke Lyn Landon: from professional experience to a business concept](https://github.com/RachaelQuisel/brooke-lyn-landon-client-work)** — helped a client assess her experience and strengths, develop a business idea, design a six-session program, prepare LinkedIn and outreach copy, and publish the [Reading with Sage MVP](https://reading-with-sage.rachael-quisel.chatgpt.site/). Includes the case study and sample deliverables.
