@@ -116,13 +116,13 @@ A task tracker for property managers, cleaners or inspectors working across many
 
 ## Start here
 
-- **[Airtable AI Webinar](https://github.com/RachaelQuisel/Airtable-AI-Webinar)** a four-version
+- **[Airtable AI Webinar](https://github.com/RachaelQuisel/Airtable-AI-Webinar)**: a four-version
   Omni demo with prompts, React source, setup guidance and a recording. The
   [Family Neighborhood case study](https://github.com/RachaelQuisel/Airtable-AI-Webinar/blob/main/docs/family-neighborhood-case-study.md)
   shows the decisions behind each version and what the public materials verify.
-- **[Systems Thinking for Airtable](https://github.com/RachaelQuisel/systems-thinking-for-airtable)** eight modules on schema design, workflow and automation architecture, access and client
+- **[Systems Thinking for Airtable](https://github.com/RachaelQuisel/systems-thinking-for-airtable)**: eight modules on schema design, workflow and automation architecture, access and client
   communication, including decisions I later revised.
-- **[Skills for You](https://github.com/RachaelQuisel/skillsforyou)** installable AI skills for
+- **[Skills for You](https://github.com/RachaelQuisel/skillsforyou)**: installable AI skills for
   repeatable Airtable and operations work, with supporting files and examples.
 
 I like making the work clear, concise and functional. A generated prompt, an edited source
