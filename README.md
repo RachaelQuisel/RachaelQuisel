@@ -140,8 +140,8 @@ I lead Automate Your Business workshops at [Kiva](https://luma.com/bzdez39g) and
 
 All the workshop materials are in [Automate Your Business](https://github.com/RachaelQuisel/Automate-Your-Business). Two to start with:
 
+- **[The Colleague Audit](https://github.com/RachaelQuisel/Automate-Your-Business/tree/main/workshops/2026-09-30-the-colleague-audit)**: stop chatting with AI and start delegating to it. Built from the story of how Grok Bot was built in a month.
 - **[The Loop Audit](https://github.com/RachaelQuisel/Automate-Your-Business/tree/main/workshops/2026-09-30-the-loop-audit)**: stop automating tasks and start automating loops.
-- **[The Colleague Audit](https://github.com/RachaelQuisel/Automate-Your-Business/tree/main/workshops/2026-09-30-the-colleague-audit)**: stop chatting with AI and start delegating to it.
 
 ## Want this for your business?
 
