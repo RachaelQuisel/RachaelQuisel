@@ -98,7 +98,7 @@ Teams covering several houses see which tasks are on track, due soon, or overdue
 
 ## Workshops
 
-I lead Automate Your Business workshops at [Kiva](https://luma.com/bzdez39g) and online with [XRAY](https://workspace.xray.tech/events).
+I lead Automate Your Business workshops in two series: in person at [Kiva Cowork in Santa Barbara](https://github.com/RachaelQuisel/Automate-Your-Business#in-person-at-kiva-cowork-santa-barbara) and online with [XRAY](https://workspace.xray.tech/events/office-hours). Every workshop and handout is in the [Automate Your Business repository](https://github.com/RachaelQuisel/Automate-Your-Business).
 
 - Hands-on walkthrough
 - Q & A
