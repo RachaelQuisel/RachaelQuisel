@@ -4,19 +4,7 @@
 
 I'm a Santa Barbara founder and Workflow Consultant at XRAY Automation. I work full time as a Workflow Consultant, but my path to becoming a builder started with my boutique hospitality business, La Maison. Hosting a thousand guests a year took 20+ hours a week until I automated my workflows. I cut that number down to 5 hours (while still netting six figures annually).
 
-- **$180,000 a year** gross at La Maison Santa Barbara
-- **5 hours a week** of my time, down from 20+
-- **900 five-star reviews**: 600+ on Airbnb and about 300 on VRBO
-- **Airbnb Guest favorite** with a 4.97 rating
-- **Top 5%** of eligible listings
-
-## La Maison Santa Barbara
-
-[![The La Maison five-star standard](https://airbnbai.rent/assets/la-maison-five-star-poster.webp)](https://airbnbai.rent/assets/la-maison-five-star-standard.mp4)
-
-[Watch the five-star standard video](https://airbnbai.rent/assets/la-maison-five-star-standard.mp4)
-
-## The automations behind it
+## My automations
 
 ### Booking sync to a shared calendar
 
