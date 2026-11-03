@@ -58,7 +58,7 @@ A script turns booking payouts into the city's lodging tax form and checks that 
 
 <a href="https://airbnbai.rent/assets/ops-today-1920x1080.mp4"><img src="https://airbnbai.rent/assets/ops-today-poster.webp" alt="A morning briefing in Slack so your whole team starts the day on the same page" width="415"></a>
 
-Bookings, reviews, money, guest messages and cleaning coverage arrive in one Slack post each morning.
+Bookings, reviews, money, guest messages, and cleaning coverage arrive in one Slack post each morning.
 
 [Watch the video](https://airbnbai.rent/assets/ops-today-1920x1080.mp4) · [How it works](https://github.com/RachaelQuisel/la-maison-github/tree/main/workflows/ops-today)
 
@@ -76,14 +76,14 @@ A daily check fixes any price that is off for the next 12 months and reports to 
 
 <a href="https://airbnbai.rent/assets/friendly-task-tracker.mp4"><img src="https://airbnbai.rent/assets/friendly-task-tracker-poster.webp" alt="Friendly task tracker" width="415"></a>
 
-Teams covering several houses see which tasks are on track, due soon or overdue, and finished tasks earn points.
+Teams covering several houses see which tasks are on track, due soon, or overdue, and finished tasks earn points.
 
 [Watch the video](https://airbnbai.rent/assets/friendly-task-tracker.mp4) · [Source on GitHub](https://github.com/RachaelQuisel/Airtable-AI-Webinar)
 
-## Plugins I built for Claude, Codex and other LLMs
+## Plugins I built for Claude, Codex, and other LLMs
 
 - **[GitHub Portfolio Builder](https://github.com/RachaelQuisel/github-portfolio-builder)** reviews a profile or repository as portfolio evidence. It checks links and claims and ranks a few specific improvements.
-- **[Questions Worth Asking](https://github.com/RachaelQuisel/questions-worth-asking)** finds unanswered questions, conflicting instructions and unclear ownership in meeting transcripts. Each question points back to the passage that prompted it.
+- **[Questions Worth Asking](https://github.com/RachaelQuisel/questions-worth-asking)** finds unanswered questions, conflicting instructions, and unclear ownership in meeting transcripts. Each question points back to the passage that prompted it.
 - **[Turn Off AI Data Sharing](https://github.com/RachaelQuisel/turn-off-ai-data-sharing)** compares documented AI privacy defaults with the settings you can check in your own accounts.
 
 ## More tools
@@ -93,7 +93,7 @@ Teams covering several houses see which tasks are on track, due soon or overdue,
 
 ## Start here
 
-- **[Airtable AI Webinar](https://github.com/RachaelQuisel/Airtable-AI-Webinar)**: a four-version Omni demo with prompts, React source, setup guidance and a recording. The [Family Neighborhood case study](https://github.com/RachaelQuisel/Airtable-AI-Webinar/blob/main/docs/family-neighborhood-case-study.md) explains the decisions behind each version.
+- **[Airtable AI Webinar](https://github.com/RachaelQuisel/Airtable-AI-Webinar)**: a four-version Omni demo with prompts, React source, setup guidance, and a recording. The [Family Neighborhood case study](https://github.com/RachaelQuisel/Airtable-AI-Webinar/blob/main/docs/family-neighborhood-case-study.md) explains the decisions behind each version.
 - **[Skills for You](https://github.com/RachaelQuisel/skillsforyou)**: installable AI skills for repeatable Airtable and operations work.
 
 ## Workshops
