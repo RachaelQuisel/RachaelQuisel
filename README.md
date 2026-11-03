@@ -10,7 +10,7 @@
 
 Airbnb Guest favorite · 4.97 rating · top 5% of eligible listings · about 900 five-star reviews (600+ on Airbnb and about 300 on VRBO)
 
-**[Book a call to automate your business](https://airbnbai.rent/#contact)** · [rachael@xray.tech](mailto:rachael@xray.tech)
+**[Send a message](https://airbnbai.rent/#contact)** · [rachael@xray.tech](mailto:rachael@xray.tech)
 
 ## La Maison Santa Barbara
 
@@ -147,4 +147,4 @@ All the workshop materials are in [Automate Your Business](https://github.com/Ra
 
 I build automations like these for other business owners.
 
-**[Book a call to automate your business](https://airbnbai.rent/#contact)** · [rachael@xray.tech](mailto:rachael@xray.tech)
+**[Send a message](https://airbnbai.rent/#contact)** · [rachael@xray.tech](mailto:rachael@xray.tech)
