@@ -3,8 +3,8 @@
 **Automating my vacation rental led me to a career I love. Now I help other business owners automate their work and get their time back.**
 
 - **$180,000 a year** gross at La Maison Santa Barbara
-- **About 5 hours a week** of my time, down from 20+
-- **About 900 five-star reviews** on Airbnb and VRBO
+- **5 hours a week** of my time, down from 20+
+- **900 five-star reviews** on Airbnb and VRBO
 
 > "Hosting a thousand guests a year took 20+ hours a week until I automated my workflows. I cut that number down to 5 hours." ([airbnbai.rent](https://airbnbai.rent/))
 
