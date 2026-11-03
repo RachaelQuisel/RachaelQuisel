@@ -109,6 +109,15 @@ Two workshops to start with:
 - **[The Team Bot](https://github.com/RachaelQuisel/one-ai-helper-for-the-whole-team)**: design one shared AI teammate for your business. This is the story of how I built my Grok Bot.
 - **[The Morning Brief](https://github.com/RachaelQuisel/the-brief-your-agent-brings-you-each-morning)**: design the short list an agent brings you before your day starts.
 
+## Soft Fork podcast
+
+<img src="https://raw.githubusercontent.com/RachaelQuisel/soft-fork/main/assets/cover.jpg" alt="Soft Fork podcast cover" width="200">
+
+Soft Fork is my daily AI tools podcast.
+My Muse agent researches, writes, and voices each episode every morning, and the hosts actually laugh.
+
+[Subscribe](https://muse.ai/podcasts/feed/1195108097011732/642ffc17-909b-4c25-a2ce-323d47246b4e) · [See how it's built](https://github.com/RachaelQuisel/soft-fork)
+
 ## Want this for your business?
 
 I build automations like these for other business owners.
