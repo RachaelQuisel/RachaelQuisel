@@ -130,6 +130,19 @@ file, a saved interface and a verified workflow are different milestones; my pro
 which one a result has reached.
 
 
+## Workshops
+
+I lead Automate Your Business workshops at [Kiva](https://luma.com/bzdez39g) and online with [XRAY](https://workspace.xray.tech/events).
+
+- Hands-on walkthrough
+- Q & A
+- Leave with a tangible solution
+
+All the workshop materials are in [Automate Your Business](https://github.com/RachaelQuisel/Automate-Your-Business). Two to start with:
+
+- **[The Loop Audit](https://github.com/RachaelQuisel/Automate-Your-Business/tree/main/workshops/2026-09-30-the-loop-audit)**: stop automating tasks and start automating loops.
+- **[The Colleague Audit](https://github.com/RachaelQuisel/Automate-Your-Business/tree/main/workshops/2026-09-30-the-colleague-audit)**: stop chatting with AI and start delegating to it.
+
 ## Want this for your business?
 
 I build automations like these for other business owners.
