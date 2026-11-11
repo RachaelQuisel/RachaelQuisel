@@ -86,6 +86,8 @@ Teams covering several houses see which tasks are on track, due soon, or overdue
 - **[Questions Worth Asking](https://github.com/RachaelQuisel/questions-worth-asking)** helps you know what to ask next. It turns meeting transcripts and notes into useful follow-up, with each question backed by the exact words that support it.
 - **[Turn Off AI Data Sharing](https://github.com/RachaelQuisel/turn-off-ai-data-sharing)** scans your default settings across ChatGPT, Claude, Gemini, Grok, Copilot, and Meta AI. It explains each toggle in plain English and tells you exactly what to switch off.
 
+See all my plugins on the [Agent Plugins Directory](https://agent-plugins.directory/rachaelquisel).
+
 ## More tools
 
 - **[Publish a Plugin](https://github.com/RachaelQuisel/publish-a-plugin)** helps you prepare a Claude Code plugin for directory review. It checks the package, explains validation findings, and applies the fixes you ask for.
