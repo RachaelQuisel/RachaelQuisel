@@ -4,15 +4,15 @@
 
 I'm a Santa Barbara founder and Workflow Consultant at XRAY Automation. I work full time as a Workflow Consultant, but my path to becoming a builder started with my boutique hospitality business, La Maison. Hosting a thousand guests a year took 20+ hours a week until I automated my workflows. I cut that number down to 5 hours (while still netting six figures annually).
 
-## Featured: a training video for any web app
+## Featured: a plugin that makes a walk-through video of any app
 
-### Training Videos
+### Training Video
 
-<a href="https://rachaelquisel.github.io/training-videos/"><img src="https://raw.githubusercontent.com/RachaelQuisel/training-videos/main/la-maison-scheduling-page-2026-11-11/preview.jpg" alt="La Maison app walk-through" width="415"></a>
+<a href="https://github.com/RachaelQuisel/training-videos"><img src="https://raw.githubusercontent.com/RachaelQuisel/training-videos/main/la-maison-scheduling-page-2026-11-11/preview.jpg" alt="A walk-through video made by the Training Video plugin" width="415"></a>
 
-One command turns a web app into a short, narrated how-to video made from its real screens. The example walks my cleaners and inspectors through the La Maison scheduling app, which is built on Zite.
+My team needed a walk-through of an app I built, so I built a plugin that makes one. Give it a link. It reads the app, writes the script, takes real screenshots, marks each button, and narrates in a friendly voice.
 
-[Watch the video](https://rachaelquisel.github.io/training-videos/) · [Get the skill](https://github.com/RachaelQuisel/training-videos/tree/main/skill/training-video) · [How it was designed](https://github.com/RachaelQuisel/training-videos/blob/main/docs/prd.md)
+[Get the plugin](https://github.com/RachaelQuisel/training-videos) · [Watch a video it made](https://rachaelquisel.github.io/training-videos/) · [How it was designed](https://github.com/RachaelQuisel/training-videos/blob/main/docs/prd.md)
 
 ## My automations
 
@@ -92,6 +92,7 @@ Teams covering several houses see which tasks are on track, due soon, or overdue
 
 ## Plugins I built for Claude, Codex, and other LLMs
 
+- **[Training Video](https://github.com/RachaelQuisel/training-videos)** makes a narrated walk-through video of any web app. Give it a link and it reads the app, writes a plain-English script, takes real screenshots, and narrates them in a friendly voice.
 - **[GitHub Portfolio Builder](https://github.com/RachaelQuisel/github-portfolio-builder)** helps you highlight your strongest work, explain your contributions, and show employers, clients, and collaborators why your projects matter. Share your profile or a repository to get a prioritized plan for what to feature, improve, and add.
 - **[Questions Worth Asking](https://github.com/RachaelQuisel/questions-worth-asking)** helps you know what to ask next. It turns meeting transcripts and notes into useful follow-up, with each question backed by the exact words that support it.
 - **[Turn Off AI Data Sharing](https://github.com/RachaelQuisel/turn-off-ai-data-sharing)** scans your default settings across ChatGPT, Claude, Gemini, Grok, Copilot, and Meta AI. It explains each toggle in plain English and tells you exactly what to switch off.
