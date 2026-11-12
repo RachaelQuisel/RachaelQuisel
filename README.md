@@ -4,6 +4,16 @@
 
 I'm a Santa Barbara founder and Workflow Consultant at XRAY Automation. I work full time as a Workflow Consultant, but my path to becoming a builder started with my boutique hospitality business, La Maison. Hosting a thousand guests a year took 20+ hours a week until I automated my workflows. I cut that number down to 5 hours (while still netting six figures annually).
 
+## Featured: a training video for any web app
+
+### Training Videos
+
+<a href="https://rachaelquisel.github.io/training-videos/"><img src="https://raw.githubusercontent.com/RachaelQuisel/training-videos/main/la-maison-scheduling-page-2026-11-11/preview.jpg" alt="La Maison app walk-through" width="415"></a>
+
+One command turns a web app into a short, narrated how-to video made from its real screens. The example walks my cleaners and inspectors through the La Maison scheduling app, which is built on Zite.
+
+[Watch the video](https://rachaelquisel.github.io/training-videos/) · [Get the skill](https://github.com/RachaelQuisel/training-videos/tree/main/skill/training-video) · [How it was designed](https://github.com/RachaelQuisel/training-videos/blob/main/docs/prd.md)
+
 ## My automations
 
 ### Booking sync to a shared calendar
