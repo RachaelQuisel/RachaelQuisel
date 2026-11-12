@@ -2,7 +2,7 @@
 
 **Automating my vacation rental led me to a career I love. Now I help other business owners automate their work and get their time back.**
 
-I'm a Santa Barbara founder and Workflow Consultant at XRAY Automation. I work full time as a Workflow Consultant, but my path to becoming a builder started with my boutique hospitality business, La Maison. Hosting a thousand guests a year took 20+ hours a week until I automated my workflows. I cut that number down to 5 hours (while still netting six figures annually).
+I'm a Santa Barbara entrepreneur and AI and Automation Workflow Consultant at [XRAY.tech](https://xray.tech), where I build systems that replace manual, repetitive work for clients. My first client was me. La Maison, my boutique hospitality business, hosts a thousand guests a year, and running it used to take 20+ hours a week. I automated my way down to 5 (while still netting six figures a year).
 
 ## Featured: a plugin that makes a walk-through video of any app
 
