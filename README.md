@@ -1,6 +1,6 @@
 # Hi, I'm Rachael Quisel
 
-**Automating my vacation rental led me to a career I love. Now I help other business owners automate their work and get their time back.**
+**Automating my vacation rental led me to a career I love.**
 
 I'm a Santa Barbara entrepreneur and AI and Automation Workflow Consultant at [XRAY.tech](https://xray.tech), where I build systems that replace manual, repetitive work for clients. My first client was me. La Maison, my boutique hospitality business, hosts a thousand guests a year, and running it used to take 20+ hours a week. I automated my way down to 5 (while still netting six figures a year).
 
