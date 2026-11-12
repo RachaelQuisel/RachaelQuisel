@@ -6,6 +6,8 @@ I'm a Santa Barbara entrepreneur and AI and Automation Workflow Consultant at [X
 
 ## A walkthrough video of the tools I've built to automate my business
 
+I didn't just make the video. I built every tool in it: nine apps, multiple skills, and several plugins, including the plugin below that makes training videos of apps like mine. Together they've given me back 50+ hours a month.
+
 ### Training Video
 
 <a href="https://github.com/RachaelQuisel/training-videos"><img src="https://raw.githubusercontent.com/RachaelQuisel/training-videos/main/la-maison-scheduling-page-2026-11-11/preview.jpg" alt="A walk-through video made by the Training Video plugin" width="415"></a>
